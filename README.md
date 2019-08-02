@@ -12,7 +12,7 @@ However, it should be noted that this project is not without any flaws and as su
 
 ## WHERE TO FIND
 
-This library is available as an executable file at  [github](https://github.com/zeroitdev/Zeroit-Pixel-Ruler/blob/master/Installer/Pixel%20Ruler.exe).
+This library is available as an executable file at  [github](https://github.com/zeroitdev/Zeroit-Dev-Pixel-Ruler/blob/master/Installer/Pixel%20Ruler.exe).
 
 
 
