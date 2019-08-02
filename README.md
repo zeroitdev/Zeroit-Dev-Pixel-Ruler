@@ -12,7 +12,7 @@ However, it should be noted that this project is not without any flaws and as su
 
 ## WHERE TO FIND
 
-This library is available as an executable file at  [github](https://github.com/zeroitdev/ZeroitDevPixelRuler/blob/master/Executable/ZeroitDevColorPicker.exe).
+This library is available as an executable file at  [github](https://github.com/zeroitdev/ZeroitDevPixelRuler/blob/master/Installer/Pixel Ruler.exe).
 
 
 
