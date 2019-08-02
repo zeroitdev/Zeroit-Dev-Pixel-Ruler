@@ -1,4 +1,19 @@
-﻿namespace Zeroit_Dev_Pixel_Ruler
+﻿// ***********************************************************************
+// Assembly         : Zeroit Dev Pixel Ruler
+// Author           : ZEROIT
+// Created          : 06-24-2019
+//
+// Last Modified By : ZEROIT
+// Last Modified On : 06-24-2019
+// ***********************************************************************
+// <copyright file="AngleForm.Designer.cs" company="Zeroit Dev Technologies">
+//     Copyright © 2019 Zeroit Dev Technologies. All Rights Reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+
+
+namespace Zeroit_Dev_Pixel_Ruler
 {
     partial class AngleForm
     {

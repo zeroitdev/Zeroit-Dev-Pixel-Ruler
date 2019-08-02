@@ -1,13 +1,21 @@
-﻿using Microsoft.VisualBasic.CompilerServices;
+﻿// ***********************************************************************
+// Assembly         : Zeroit Dev Pixel Ruler
+// Author           : ZEROIT
+// Created          : 06-24-2019
+//
+// Last Modified By : ZEROIT
+// Last Modified On : 08-02-2019
+// ***********************************************************************
+// <copyright file="Form1.cs" company="Zeroit Dev Technologies">
+//     Copyright © 2019 Zeroit Dev Technologies. All Rights Reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Globalization;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 

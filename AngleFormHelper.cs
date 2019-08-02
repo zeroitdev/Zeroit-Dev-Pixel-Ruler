@@ -1,9 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// ***********************************************************************
+// Assembly         : Zeroit Dev Pixel Ruler
+// Author           : ZEROIT
+// Created          : 06-24-2019
+//
+// Last Modified By : ZEROIT
+// Last Modified On : 08-02-2019
+// ***********************************************************************
+// <copyright file="AngleFormHelper.cs" company="Zeroit Dev Technologies">
+//     Copyright © 2019 Zeroit Dev Technologies. All Rights Reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Zeroit_Dev_Pixel_Ruler

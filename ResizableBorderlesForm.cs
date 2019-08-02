@@ -1,16 +1,25 @@
-﻿using System;
-using System.Collections.Generic;
+﻿// ***********************************************************************
+// Assembly         : Zeroit Dev Pixel Ruler
+// Author           : ZEROIT
+// Created          : 06-24-2019
+//
+// Last Modified By : ZEROIT
+// Last Modified On : 08-02-2019
+// ***********************************************************************
+// <copyright file="ResizableBorderlesForm.cs" company="Zeroit Dev Technologies">
+//     Copyright © 2019 Zeroit Dev Technologies. All Rights Reserved.
+// </copyright>
+// <summary></summary>
+// ***********************************************************************
+using System;
 using System.ComponentModel;
 using System.Drawing;
 using System.Drawing.Drawing2D;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Zeroit_Dev_Pixel_Ruler
 {
-    
+
     public partial class ResizableBorderlesForm : Form
     {
         private Border border = new Border();
@@ -258,11 +267,7 @@ namespace Zeroit_Dev_Pixel_Ruler
             this.FormBorderStyle = FormBorderStyle.None; // no borders
             this.DoubleBuffered = true;
             //this.SetStyle(ControlStyles.ResizeRedraw, true); // this is to avoid visual artifacts
-
-
             
-            
-
         }
 
         protected override void OnPaint(PaintEventArgs e) // you can safely omit this method if you want
